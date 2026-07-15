@@ -4,7 +4,7 @@ Full Stack Developer with 8+ years of experience building web applications end t
 
 - **Stack:** React, TypeScript, Node.js, Express, PHP, MongoDB, MySQL
 - **Site:** [mkasik.com](https://mkasik.com)
-- **Email:** pagemanagerbd@gmail.com
+- **Email:** mkasik123@gmail.com
 
 ## Projects
 
